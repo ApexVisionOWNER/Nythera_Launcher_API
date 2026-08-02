@@ -1,0 +1,8 @@
+{
+  "changelogs": [
+    { "text": "Added a custom color option for the Crosshair mod", "type": 0 },
+    { "text": "Fixed the Crosshair mod turning translucent when a custom color was selected", "type": 1 },
+    { "text": "Updated the mod menu logo to match the main menu icon", "type": 0 },
+    { "text": "General bug fixes and stability improvements", "type": 1 }
+  ]
+}
