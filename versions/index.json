@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-07-28",
+  "tabs": [
+    {
+      "id": "nythera",
+      "label": "Nythera",
+      "source": "versions/nythera.json",
+      "type": "modpack",
+      "background": "backgrounds/nythera.png"
+    },
+    {
+      "id": "vanilla",
+      "label": "Vanilla",
+      "source": "versions/vanilla.json",
+      "type": "vanilla",
+      "background": "backgrounds/vanilla.png"
+    },
+    {
+      "id": "mods",
+      "label": "Mods",
+      "source": "curseforge",
+      "type": "search",
+      "background": "backgrounds/default.png"
+    }
+  ]
+}

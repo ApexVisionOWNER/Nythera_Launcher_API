@@ -1,0 +1,16 @@
+{
+  "id": "nythera-1.21.1",
+  "name": "Nythera 1.21.1",
+  "mc_version": "1.21.1",
+  "loader": "fabric",
+  "loader_version": null,
+  "description": "Modpack Nythera oficial para Minecraft 1.21.1.",
+  "mods_archive": "versions/nythera/1.21.1/mods.zip",
+  "config_archive": "versions/nythera/1.21.1/config.zip",
+  "background": "versions/nythera/1.21.1/background.png",
+  "min_ram_mb": 4096,
+  "recommended_ram_mb": 6144,
+  "changelog": [
+    "Versão inicial do modpack Nythera 1.21.1"
+  ]
+}

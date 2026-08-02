@@ -1,0 +1,14 @@
+{
+  "versions": [
+    {
+      "id": "nythera-1.8.9",
+      "label": "Nythera 1.8.9",
+      "category": "PVP",
+      "subtitle": "Client Nythera para PvP em 1.8.9",
+      "g1": "#2e7d5f",
+      "g2": "#5cbf98",
+      "loader": "vanilla",
+      "manifest": "versions/nythera/1.8.9/manifest.json"
+    }
+  ]
+}
