@@ -1,0 +1,19 @@
+{
+  "news": [
+    {
+      "title": "Join our Discord!",
+      "subtitle": "Stay up to date with Nythera",
+      "body": "Join the official ApexVision Studio Discord server to get support, report bugs, suggest features, and chat with the community and the developers directly."
+    },
+    {
+      "title": "Welcome to Nythera",
+      "subtitle": "Thanks for using the client",
+      "body": "We're always working on new features and improvements. Keep an eye on the Changelog panel for the latest updates, and let us know what you'd like to see next!"
+    },
+    {
+      "title": "Found a bug?",
+      "subtitle": "Help us improve",
+      "body": "If something isn't working right, please report it in our Discord's support channel with as much detail as possible so we can fix it quickly."
+    }
+  ]
+}
