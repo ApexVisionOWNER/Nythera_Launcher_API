@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/SEU_USUARIO/Nythera_Launcher_API/main/versions
 Edite o arquivo `nythera_launcher/config.py` do launcher e defina:
 
 ```python
-API_BASE_URL = "https://raw.githubusercontent.com/SEU_USUARIO/Nythera_Launcher_API/main"
+API_BASE_URL = "https://raw.githubusercontent.com/ApexVisionOWNER/Nythera_Launcher_API/main"
 ```
 
 ## Como adicionar uma nova versão Nythera
